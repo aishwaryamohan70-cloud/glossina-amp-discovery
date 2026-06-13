@@ -60,6 +60,12 @@ To identify putative antimicrobial peptides and evaluate their physicochemical p
 
 Associated manuscript currently under peer review.
 
+Reference:
+
+Aishwarya K. A., Archana Unni K., Gayathry Dinesh et al.
+"In Silico Identification and Characterization of Antimicrobial Peptides in Glossina morsitans morsitans."
+Manuscript under peer review.
+
 ## Disclaimer
 
 This repository presents computational analyses and predicted results. Experimental validation is required to confirm biological activity and functional significance of the identified peptide candidates.
